@@ -4,7 +4,7 @@
 
 Command line interface to the freedesktop.org trashcan.
 
-![trash-cli](https://repo.x-cmd.io/trash-cli.svg)
+![trash-cli](https://repo.x-cmd.io/trash-cli.svg?lang=zh)
 
 ## 安装
 
@@ -19,19 +19,19 @@ x install trash-cli
 
 ## 流行度
 
-- **Star**: 4,581 · **Fork**: 211 · **开放 issue**: 267 · **贡献者**: 54
+- **Star**: 4,581 · **Fork**: 212 · **开放 issue**: 267 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 72 · **开放 PR**: 11 · **已关闭 issue**: 194 · **开放 issue**: 73 · **提交数**: 2050
+- **发布数**: 0 · **已合并 PR**: 72 · **开放 PR**: 12 · **已关闭 issue**: 194 · **开放 issue**: 73 · **提交数**: 2050
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 3 |
-| 90d | 2026-06-12 | 0 | 8 | 7 | 1 | 2 | 61 |
-| 360d | 2025-09-15 | 0 | 11 | 9 | 2 | 9 | 66 |
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 90d | 2026-06-12 | 0 | 8 | 8 | 1 | 2 | 61 |
+| 360d | 2025-09-15 | 0 | 11 | 10 | 2 | 9 | 66 |
 
 ## 代码规模
 
@@ -64,4 +64,4 @@ trash-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:56:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:03:23Z._

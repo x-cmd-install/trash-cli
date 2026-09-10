@@ -19,19 +19,19 @@ x install trash-cli
 
 ## Popularity
 
-- **Stars**: 4,581 · **Forks**: 211 · **Open issues**: 267 · **Contributors**: 54
+- **Stars**: 4,581 · **Forks**: 212 · **Open issues**: 267 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 72 · **Open PRs**: 11 · **Closed issues**: 194 · **Open issues**: 73 · **Commits**: 2050
+- **Releases**: 0 · **Merged PRs**: 72 · **Open PRs**: 12 · **Closed issues**: 194 · **Open issues**: 73 · **Commits**: 2050
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 3 |
-| 90d | 2026-06-12 | 0 | 8 | 7 | 1 | 2 | 61 |
-| 360d | 2025-09-15 | 0 | 11 | 9 | 2 | 9 | 66 |
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 3 |
+| 90d | 2026-06-12 | 0 | 8 | 8 | 1 | 2 | 61 |
+| 360d | 2025-09-15 | 0 | 11 | 10 | 2 | 9 | 66 |
 
 ## Code size
 
@@ -60,8 +60,8 @@ Lowest-scoring checks:
 Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trash-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/trash-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/trash-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:56:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:03:22Z._
