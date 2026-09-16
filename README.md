@@ -14,11 +14,11 @@ x install trash-cli
 
 ## Code insight
 
-Total: **12,183** lines of code across **449** files in the top 5 languages.
+Total: **12,310** lines of code across **452** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 10,947 | 119 | 3,278 | 428 |
+| Python | 11,074 | 130 | 3,315 | 431 |
 | Html | 509 | 4 | 1 | 1 |
 | ReStructuredText | 455 | 0 | 252 | 3 |
 | Bash | 180 | 80 | 48 | 16 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.14` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 
 ## Popularity
 
-- **Stars**: 4,591 · **Forks**: 212 · **Open issues**: 267 · **Contributors**: 54
+- **Stars**: 4,593 · **Forks**: 212 · **Open issues**: 267 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 72 · **Open PRs**: 13 · **Closed issues**: 194 · **Open issues**: 73 · **Commits**: 2056
+- **Releases**: 1 · **Merged PRs**: 73 · **Open PRs**: 12 · **Closed issues**: 195 · **Open issues**: 72 · **Commits**: 2061
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 0 | 2 | 0 | 1 | 9 |
-| last60d | 2026-07-17 | 1 | 0 | 2 | 1 | 2 | 9 |
-| 90d | 2026-06-17 | 1 | 8 | 9 | 1 | 2 | 67 |
-| last180d | 2026-03-19 | 1 | 10 | 10 | 2 | 5 | 70 |
-| 360d | 2025-09-20 | 1 | 11 | 11 | 2 | 9 | 72 |
-| last720d | 2024-09-25 | 1 | 15 | 13 | 8 | 15 | 76 |
+| 30d | 2026-08-17 | 1 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-18 | 1 | 0 | 2 | 1 | 2 | 0 |
+| 90d | 2026-06-18 | 1 | 9 | 8 | 1 | 2 | 0 |
+| last180d | 2026-03-20 | 1 | 11 | 9 | 2 | 5 | 0 |
+| 360d | 2025-09-21 | 1 | 12 | 10 | 3 | 8 | 0 |
+| last720d | 2024-09-26 | 1 | 16 | 12 | 9 | 14 | 81 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T03:15:04Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T03:11:54Z._
