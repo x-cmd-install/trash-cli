@@ -26,11 +26,11 @@ x install trash-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.2 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -56,12 +56,12 @@ x install trash-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 0 | 2 | 0 | 2 | 8 |
-| last60d | 2026-07-23 | 1 | 0 | 2 | 1 | 3 | 11 |
-| 90d | 2026-06-23 | 1 | 9 | 7 | 1 | 3 | 71 |
-| last180d | 2026-03-25 | 1 | 11 | 8 | 2 | 5 | 74 |
-| 360d | 2025-09-26 | 1 | 12 | 9 | 3 | 9 | 76 |
-| last720d | 2024-10-01 | 1 | 16 | 11 | 9 | 15 | 81 |
+| 30d | 2026-08-23 | 1 | 0 | 2 | 0 | 2 | 8 |
+| last60d | 2026-07-24 | 1 | 0 | 2 | 1 | 3 | 11 |
+| 90d | 2026-06-24 | 1 | 9 | 7 | 1 | 3 | 71 |
+| last180d | 2026-03-26 | 1 | 11 | 8 | 2 | 5 | 74 |
+| 360d | 2025-09-27 | 1 | 12 | 9 | 3 | 9 | 76 |
+| last720d | 2024-10-02 | 1 | 16 | 11 | 9 | 15 | 81 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ trash-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T03:10:34Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T03:09:46Z._
