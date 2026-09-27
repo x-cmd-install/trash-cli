@@ -14,13 +14,13 @@ x install trash-cli
 
 ## Code insight
 
-Total: **12,310** lines of code across **451** files in the top 5 languages.
+Total: **12,362** lines of code across **454** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 11,074 | 130 | 3,315 | 430 |
+| Python | 11,132 | 141 | 3,339 | 433 |
 | Html | 509 | 4 | 1 | 1 |
-| ReStructuredText | 455 | 0 | 252 | 3 |
+| ReStructuredText | 449 | 0 | 250 | 3 |
 | Bash | 180 | 80 | 48 | 16 |
 | ForgeConfig | 67 | 5 | 5 | 1 |
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.14` (2026-09-14)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 
 ## Popularity
 
-- **Stars**: 4,595 · **Forks**: 213 · **Open issues**: 270 · **Contributors**: 54
+- **Stars**: 4,594 · **Forks**: 213 · **Open issues**: 270 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 73 · **Open PRs**: 11 · **Closed issues**: 195 · **Open issues**: 75 · **Commits**: 2063
+- **Releases**: 1 · **Merged PRs**: 74 · **Open PRs**: 10 · **Closed issues**: 197 · **Open issues**: 73 · **Commits**: 2065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 0 | 2 | 0 | 4 | 10 |
-| last60d | 2026-07-28 | 1 | 0 | 2 | 1 | 4 | 13 |
-| 90d | 2026-06-28 | 1 | 9 | 7 | 1 | 5 | 73 |
-| last180d | 2026-03-30 | 1 | 11 | 8 | 2 | 7 | 76 |
-| 360d | 2025-10-01 | 1 | 12 | 9 | 3 | 11 | 78 |
-| last720d | 2024-10-06 | 1 | 16 | 11 | 9 | 17 | 83 |
+| 30d | 2026-08-28 | 1 | 0 | 2 | 2 | 2 | 11 |
+| last60d | 2026-07-29 | 1 | 0 | 2 | 3 | 2 | 14 |
+| 90d | 2026-06-29 | 1 | 10 | 6 | 3 | 3 | 75 |
+| last180d | 2026-03-31 | 1 | 12 | 7 | 4 | 5 | 78 |
+| 360d | 2025-10-02 | 1 | 13 | 8 | 5 | 9 | 80 |
+| last720d | 2024-10-07 | 1 | 17 | 10 | 11 | 15 | 85 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T03:21:38Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T03:29:35Z._
