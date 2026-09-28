@@ -14,7 +14,7 @@ x install trash-cli
 
 ## Code insight
 
-Total: **12,362** lines of code across **454** files in the top 5 languages.
+Total: **12,387** lines of code across **454** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.14` (2026-09-14)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 74 · **Open PRs**: 10 · **Closed issues**: 197 · **Open issues**: 73 · **Commits**: 2065
+- **Releases**: 1 · **Merged PRs**: 74 · **Open PRs**: 10 · **Closed issues**: 197 · **Open issues**: 73 · **Commits**: 2066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 0 | 2 | 2 | 2 | 11 |
-| last60d | 2026-07-29 | 1 | 0 | 2 | 3 | 2 | 14 |
-| 90d | 2026-06-29 | 1 | 10 | 6 | 3 | 3 | 75 |
-| last180d | 2026-03-31 | 1 | 12 | 7 | 4 | 5 | 78 |
-| 360d | 2025-10-02 | 1 | 13 | 8 | 5 | 9 | 80 |
-| last720d | 2024-10-07 | 1 | 17 | 10 | 11 | 15 | 85 |
+| 30d | 2026-08-29 | 1 | 0 | 2 | 2 | 2 | 11 |
+| last60d | 2026-07-30 | 1 | 0 | 2 | 2 | 2 | 15 |
+| 90d | 2026-06-30 | 1 | 10 | 6 | 3 | 3 | 61 |
+| last180d | 2026-04-01 | 1 | 12 | 7 | 4 | 5 | 79 |
+| 360d | 2025-10-03 | 1 | 13 | 8 | 5 | 9 | 81 |
+| last720d | 2024-10-08 | 1 | 17 | 10 | 11 | 15 | 86 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T03:29:35Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T03:27:53Z._
