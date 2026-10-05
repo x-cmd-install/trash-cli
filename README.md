@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 79 · **Open PRs**: 3 · **Closed issues**: 199 · **Open issues**: 72 · **Commits**: 2329
+- **Releases**: 2 · **Merged PRs**: 79 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 72 · **Commits**: 2329
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 5 | 2 | 3 | 1 | 273 |
-| last60d | 2026-08-05 | 2 | 5 | 2 | 3 | 2 | 278 |
-| 90d | 2026-07-06 | 2 | 10 | 3 | 4 | 3 | 286 |
-| last180d | 2026-04-07 | 2 | 17 | 3 | 5 | 5 | 342 |
-| 360d | 2025-10-09 | 2 | 18 | 3 | 7 | 8 | 344 |
-| last720d | 2024-10-14 | 2 | 22 | 3 | 12 | 13 | 349 |
+| 30d | 2026-09-05 | 2 | 5 | 4 | 3 | 1 | 273 |
+| last60d | 2026-08-06 | 2 | 5 | 4 | 3 | 2 | 278 |
+| 90d | 2026-07-07 | 2 | 9 | 5 | 4 | 3 | 286 |
+| last180d | 2026-04-08 | 2 | 17 | 5 | 5 | 5 | 342 |
+| 360d | 2025-10-10 | 2 | 18 | 5 | 7 | 8 | 344 |
+| last720d | 2024-10-15 | 2 | 22 | 5 | 12 | 13 | 349 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T04:09:16Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T03:53:58Z._
