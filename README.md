@@ -30,8 +30,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,602 · **Forks**: 214 · **Open issues**: 273 · **Contributors**: 56
+- **Stars**: 4,604 · **Forks**: 215 · **Open issues**: 273 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 79 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 74 · **Commits**: 2329
+- **Releases**: 2 · **Merged PRs**: 79 · **Open PRs**: 6 · **Closed issues**: 199 · **Open issues**: 74 · **Commits**: 2329
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 4 | 4 | 3 | 3 | 266 |
-| last60d | 2026-08-13 | 2 | 5 | 4 | 3 | 4 | 278 |
-| 90d | 2026-07-14 | 2 | 7 | 4 | 4 | 5 | 278 |
-| last180d | 2026-04-15 | 2 | 17 | 5 | 5 | 7 | 342 |
-| 360d | 2025-10-17 | 2 | 18 | 5 | 7 | 10 | 344 |
-| last720d | 2024-10-22 | 2 | 22 | 5 | 12 | 15 | 349 |
+| 30d | 2026-09-13 | 2 | 4 | 5 | 3 | 3 | 266 |
+| last60d | 2026-08-14 | 2 | 5 | 5 | 3 | 4 | 278 |
+| 90d | 2026-07-15 | 2 | 5 | 5 | 4 | 5 | 278 |
+| last180d | 2026-04-16 | 2 | 17 | 6 | 5 | 7 | 342 |
+| 360d | 2025-10-18 | 2 | 18 | 6 | 7 | 10 | 344 |
+| last720d | 2024-10-23 | 2 | 22 | 6 | 12 | 15 | 349 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T04:10:20Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T05:19:40Z._
