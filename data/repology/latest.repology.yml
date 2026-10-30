@@ -1,15 +1,10 @@
-- repo: aur
-  srcname: trash-cli-git
-  binname: trash-cli-git
-  visiblename: trash-cli-git
-  version: 0.22.10.20.r52.g0b476b1
-  origversion: 1:0.22.10.20.r52.g0b476b1-1
+- repo: homebrew
+  srcname: trash-cli
+  visiblename: trash-cli
+  version: HEAD
+  origversion: null
   status: rolling
-  summary: Command line trashcan (recycle bin) interface
-  maintainers:
-    - rhinoceros@aur
-  licenses:
-    - GPL-2.0-or-later
+  summary: Command-line interface to the freedesktop.org trashcan
 - repo: alpine_3_17
   subrepo: community
   srcname: trash-cli
@@ -218,6 +213,20 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
+- repo: kali_rolling
+  subrepo: main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.4
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
 - repo: alpine_3_22
   subrepo: community
   srcname: trash-cli
@@ -244,17 +253,6 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
-- repo: artix
-  subrepo: world
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-3
-  status: outdated
-  summary: Command line trashcan (recycle bin) interface
-  licenses:
-    - GPL-2.0-only
 - repo: alpine_3_23
   subrepo: community
   srcname: trash-cli
@@ -333,6 +331,20 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.3
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
 - repo: alpine_edge
   subrepo: community
   srcname: trash-cli
@@ -382,20 +394,29 @@
   summary: Command line trashcan (recycle bin) interface
   licenses:
     - GPL-2.0-only
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: aur
+  srcname: trash-cli-git
+  binname: trash-cli-git
+  visiblename: trash-cli-git
+  version: 0.22.10.20.r52.g0b476b1
+  origversion: 1:0.22.10.20.r52.g0b476b1-1
+  status: rolling
+  summary: Command line trashcan (recycle bin) interface
+  maintainers:
+    - rhinoceros@aur
+  licenses:
+    - GPL-2.0-or-later
+- repo: artix
+  subrepo: world
   srcname: trash-cli
-  binnames:
-    - trash-cli
+  binname: trash-cli
   visiblename: trash-cli
   version: 0.24.5.26
-  origversion: 0.24.5.26-0.3
+  origversion: 0.24.5.26-3
   status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
+  summary: Command line trashcan (recycle bin) interface
+  licenses:
+    - GPL-2.0-only
 - repo: chimera
   subrepo: main
   srcname: trash-cli
@@ -462,20 +483,6 @@
   visiblename: trash-cli
   version: 0.17.1.14
   origversion: 0.17.1.14-5
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.3
   status: outdated
   maintainers:
     - stefano@karapetsas.com
@@ -764,27 +771,6 @@
   origversion: null
   status: newest
   summary: Command-line interface to the freedesktop.org trashcan
-- repo: homebrew
-  srcname: trash-cli
-  visiblename: trash-cli
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line interface to the freedesktop.org trashcan
-- repo: kali_rolling
-  subrepo: main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.4
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
 - repo: liguros_stable
   srcname: app-misc/trash-cli
   visiblename: app-misc/trash-cli
@@ -1022,7 +1008,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: trash-cli
   binnames:
     - trash-cli
@@ -1036,7 +1022,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: trash-cli
   binnames:
     - trash-cli
@@ -1080,6 +1066,20 @@
   visiblename: trash-cli
   version: 0.17.1.14
   origversion: 0.17.1.14-5
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.3
   status: outdated
   maintainers:
     - stefano@karapetsas.com
