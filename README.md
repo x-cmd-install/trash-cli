@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,615 · **Forks**: 215 · **Open issues**: 274 · **Contributors**: 57
+- **Stars**: 4,619 · **Forks**: 215 · **Open issues**: 274 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 8 | 4 | 0 | 4 | 138 |
-| last60d | 2026-08-30 | 2 | 10 | 4 | 3 | 5 | 293 |
-| 90d | 2026-07-31 | 2 | 10 | 4 | 3 | 5 | 297 |
-| last180d | 2026-05-02 | 2 | 22 | 5 | 5 | 7 | 361 |
-| 360d | 2025-11-03 | 2 | 23 | 5 | 7 | 11 | 363 |
-| last720d | 2024-11-08 | 2 | 26 | 5 | 11 | 15 | 369 |
+| 30d | 2026-09-30 | 0 | 8 | 4 | 0 | 4 | 138 |
+| last60d | 2026-08-31 | 2 | 10 | 4 | 3 | 5 | 293 |
+| 90d | 2026-08-01 | 2 | 10 | 4 | 3 | 5 | 297 |
+| last180d | 2026-05-03 | 2 | 22 | 5 | 5 | 7 | 361 |
+| 360d | 2025-11-04 | 2 | 23 | 5 | 7 | 11 | 363 |
+| last720d | 2024-11-09 | 2 | 26 | 5 | 11 | 15 | 369 |
 
 ## Distribution status
 
@@ -75,7 +75,7 @@ Reported by **110** distros on [repology.org](https://repology.org/project/trash
 | Ubuntu 26.04 LTS | `0.24.5.26` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.23.11.10` | ⚠️ outdated |
 | Arch | `0.24.5.26` | ⚠️ outdated |
-| Homebrew | `0.26.9.29` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.26.9.29` | ✅ latest |
 | Nix unstable | `0.26.9.29` | ✅ latest |
 | Void | `0.26.9.29` | ✅ latest |
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T04:13:55Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T04:15:03Z._
