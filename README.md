@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 5 | 2 | 0 | 3 | 63 |
-| last60d | 2026-09-04 | 2 | 11 | 4 | 3 | 4 | 339 |
-| 90d | 2026-08-05 | 2 | 11 | 4 | 3 | 5 | 343 |
-| last180d | 2026-05-07 | 2 | 23 | 5 | 5 | 7 | 405 |
-| 360d | 2025-11-08 | 2 | 24 | 5 | 7 | 11 | 408 |
-| last720d | 2024-11-13 | 2 | 27 | 5 | 11 | 15 | 415 |
+| 30d | 2026-10-05 | 0 | 5 | 2 | 0 | 3 | 63 |
+| last60d | 2026-09-05 | 2 | 11 | 4 | 3 | 4 | 339 |
+| 90d | 2026-08-06 | 2 | 11 | 4 | 3 | 5 | 343 |
+| last180d | 2026-05-08 | 2 | 23 | 5 | 5 | 7 | 405 |
+| 360d | 2025-11-09 | 2 | 24 | 5 | 7 | 11 | 408 |
+| last720d | 2024-11-14 | 2 | 27 | 5 | 11 | 15 | 415 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:12:54Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:42:57Z._
