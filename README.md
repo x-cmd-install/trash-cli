@@ -14,11 +14,11 @@ x install trash-cli
 
 ## Code insight
 
-Total: **14,960** lines of code across **578** files in the top 5 languages.
+Total: **14,920** lines of code across **576** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,616 | 288 | 4,046 | 557 |
+| Python | 13,576 | 288 | 4,039 | 555 |
 | Html | 509 | 4 | 1 | 1 |
 | ReStructuredText | 424 | 0 | 227 | 2 |
 | Bash | 199 | 89 | 49 | 16 |
@@ -26,11 +26,11 @@ Total: **14,960** lines of code across **578** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.29` (2026-09-29)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 4,623 · **Forks**: 215 · **Open issues**: 274 · **Contributors**: 57
+- **Stars**: 4,622 · **Forks**: 215 · **Open issues**: 275 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 85 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 75 · **Commits**: 2395
+- **Releases**: 2 · **Merged PRs**: 85 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 76 · **Commits**: 2402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 5 | 2 | 0 | 3 | 63 |
-| last60d | 2026-09-05 | 2 | 11 | 4 | 3 | 4 | 339 |
-| 90d | 2026-08-06 | 2 | 11 | 4 | 3 | 5 | 343 |
-| last180d | 2026-05-08 | 2 | 23 | 5 | 5 | 7 | 405 |
-| 360d | 2025-11-09 | 2 | 24 | 5 | 7 | 11 | 408 |
-| last720d | 2024-11-14 | 2 | 27 | 5 | 11 | 15 | 415 |
+| 30d | 2026-10-06 | 0 | 5 | 2 | 0 | 2 | 70 |
+| last60d | 2026-09-06 | 2 | 11 | 4 | 3 | 5 | 346 |
+| 90d | 2026-08-07 | 2 | 11 | 4 | 3 | 6 | 350 |
+| last180d | 2026-05-09 | 2 | 22 | 5 | 5 | 8 | 412 |
+| 360d | 2025-11-10 | 2 | 24 | 5 | 7 | 12 | 415 |
+| last720d | 2024-11-15 | 2 | 27 | 5 | 11 | 16 | 422 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:42:57Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:57:45Z._
