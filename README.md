@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,622 · **Forks**: 215 · **Open issues**: 277 · **Contributors**: 57
+- **Stars**: 4,622 · **Forks**: 215 · **Open issues**: 278 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 86 · **Open PRs**: 6 · **Closed issues**: 199 · **Open issues**: 78 · **Commits**: 2404
+- **Releases**: 2 · **Merged PRs**: 86 · **Open PRs**: 8 · **Closed issues**: 199 · **Open issues**: 79 · **Commits**: 2404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 6 | 4 | 0 | 4 | 58 |
-| last60d | 2026-09-09 | 2 | 12 | 6 | 3 | 7 | 340 |
-| 90d | 2026-08-10 | 2 | 12 | 6 | 3 | 8 | 352 |
-| last180d | 2026-05-12 | 2 | 23 | 6 | 4 | 9 | 414 |
-| 360d | 2025-11-13 | 2 | 25 | 6 | 7 | 14 | 416 |
-| last720d | 2024-11-18 | 2 | 28 | 6 | 11 | 18 | 424 |
+| 30d | 2026-10-10 | 0 | 6 | 6 | 0 | 5 | 58 |
+| last60d | 2026-09-10 | 2 | 11 | 8 | 3 | 8 | 340 |
+| 90d | 2026-08-11 | 2 | 12 | 8 | 3 | 9 | 352 |
+| last180d | 2026-05-13 | 2 | 23 | 8 | 4 | 10 | 414 |
+| 360d | 2025-11-14 | 2 | 24 | 8 | 7 | 15 | 416 |
+| last720d | 2024-11-19 | 2 | 28 | 8 | 11 | 19 | 424 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T04:15:19Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T04:30:45Z._
