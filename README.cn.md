@@ -30,7 +30,7 @@ x install trash-cli
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,26 +46,26 @@ x install trash-cli
 
 ## 流行度
 
-- **Star**: 4,622 · **Fork**: 215 · **开放 issue**: 278 · **贡献者**: 57
+- **Star**: 4,620 · **Fork**: 216 · **开放 issue**: 278 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 2 · **已合并 PR**: 86 · **开放 PR**: 8 · **已关闭 issue**: 199 · **开放 issue**: 79 · **提交数**: 2404
+- **发布数**: 2 · **已合并 PR**: 86 · **开放 PR**: 5 · **已关闭 issue**: 199 · **开放 issue**: 79 · **提交数**: 2404
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 6 | 6 | 0 | 5 | 58 |
-| last60d | 2026-09-10 | 2 | 11 | 8 | 3 | 8 | 340 |
-| 90d | 2026-08-11 | 2 | 12 | 8 | 3 | 9 | 352 |
-| last180d | 2026-05-13 | 2 | 23 | 8 | 4 | 10 | 414 |
-| 360d | 2025-11-14 | 2 | 24 | 8 | 7 | 15 | 416 |
-| last720d | 2024-11-19 | 2 | 28 | 8 | 11 | 19 | 424 |
+| 30d | 2026-10-11 | 0 | 6 | 3 | 0 | 5 | 58 |
+| last60d | 2026-09-11 | 2 | 11 | 5 | 3 | 8 | 340 |
+| 90d | 2026-08-12 | 2 | 12 | 5 | 3 | 9 | 352 |
+| last180d | 2026-05-14 | 2 | 23 | 5 | 4 | 10 | 414 |
+| 360d | 2025-11-15 | 2 | 24 | 5 | 7 | 15 | 416 |
+| last720d | 2024-11-20 | 2 | 28 | 5 | 11 | 19 | 424 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/trash-cli) 上共有 **111** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**90** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/trash-cli) 上共有 **112** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**91** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -91,4 +91,4 @@ trash-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T04:30:46Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T05:50:56Z._

@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,26 +46,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,622 · **Forks**: 215 · **Open issues**: 278 · **Contributors**: 57
+- **Stars**: 4,620 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 86 · **Open PRs**: 8 · **Closed issues**: 199 · **Open issues**: 79 · **Commits**: 2404
+- **Releases**: 2 · **Merged PRs**: 86 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 79 · **Commits**: 2404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 6 | 6 | 0 | 5 | 58 |
-| last60d | 2026-09-10 | 2 | 11 | 8 | 3 | 8 | 340 |
-| 90d | 2026-08-11 | 2 | 12 | 8 | 3 | 9 | 352 |
-| last180d | 2026-05-13 | 2 | 23 | 8 | 4 | 10 | 414 |
-| 360d | 2025-11-14 | 2 | 24 | 8 | 7 | 15 | 416 |
-| last720d | 2024-11-19 | 2 | 28 | 8 | 11 | 19 | 424 |
+| 30d | 2026-10-11 | 0 | 6 | 3 | 0 | 5 | 58 |
+| last60d | 2026-09-11 | 2 | 11 | 5 | 3 | 8 | 340 |
+| 90d | 2026-08-12 | 2 | 12 | 5 | 3 | 9 | 352 |
+| last180d | 2026-05-14 | 2 | 23 | 5 | 4 | 10 | 414 |
+| 360d | 2025-11-15 | 2 | 24 | 5 | 7 | 15 | 416 |
+| last720d | 2024-11-20 | 2 | 28 | 5 | 11 | 19 | 424 |
 
 ## Distribution status
 
-Reported by **111** distros on [repology.org](https://repology.org/project/trash-cli). **15** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **15** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T04:30:45Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T05:50:55Z._
