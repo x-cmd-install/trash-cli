@@ -50,22 +50,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 86 · **Open PRs**: 5 · **Closed issues**: 199 · **Open issues**: 79 · **Commits**: 2404
+- **Releases**: 2 · **Merged PRs**: 87 · **Open PRs**: 7 · **Closed issues**: 200 · **Open issues**: 78 · **Commits**: 2404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 6 | 3 | 0 | 5 | 58 |
-| last60d | 2026-09-11 | 2 | 11 | 5 | 3 | 8 | 340 |
-| 90d | 2026-08-12 | 2 | 12 | 5 | 3 | 9 | 352 |
-| last180d | 2026-05-14 | 2 | 23 | 5 | 4 | 10 | 414 |
-| 360d | 2025-11-15 | 2 | 24 | 5 | 7 | 15 | 416 |
-| last720d | 2024-11-20 | 2 | 28 | 5 | 11 | 19 | 424 |
+| 30d | 2026-10-12 | 0 | 6 | 5 | 1 | 4 | 58 |
+| last60d | 2026-09-12 | 2 | 12 | 7 | 4 | 7 | 340 |
+| 90d | 2026-08-13 | 2 | 13 | 7 | 4 | 8 | 352 |
+| last180d | 2026-05-15 | 2 | 24 | 7 | 5 | 9 | 414 |
+| 360d | 2025-11-16 | 2 | 25 | 7 | 8 | 14 | 416 |
+| last720d | 2024-11-21 | 2 | 29 | 7 | 12 | 18 | 424 |
 
 ## Distribution status
 
-Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **15** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **16** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,7 +75,7 @@ Reported by **112** distros on [repology.org](https://repology.org/project/trash
 | Ubuntu 26.04 LTS | `0.24.5.26` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.23.11.10` | ⚠️ outdated |
 | Arch | `0.24.5.26` | ⚠️ outdated |
-| Homebrew | `0.26.9.29` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.26.9.29` | ✅ latest |
 | Nix unstable | `0.26.9.29` | ✅ latest |
 | Void | `0.26.9.29` | ✅ latest |
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T05:50:55Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T04:34:20Z._
