@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,620 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
+- **Stars**: 4,621 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -56,16 +56,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 5 | 5 | 1 | 3 | 37 |
-| last60d | 2026-09-17 | 1 | 14 | 7 | 4 | 7 | 342 |
-| 90d | 2026-08-18 | 2 | 15 | 7 | 4 | 8 | 351 |
-| last180d | 2026-05-20 | 2 | 26 | 7 | 5 | 9 | 416 |
-| 360d | 2025-11-21 | 2 | 27 | 7 | 8 | 14 | 418 |
-| last720d | 2024-11-26 | 2 | 31 | 7 | 12 | 17 | 426 |
+| 30d | 2026-10-18 | 0 | 5 | 5 | 1 | 3 | 37 |
+| last60d | 2026-09-18 | 1 | 14 | 7 | 4 | 7 | 342 |
+| 90d | 2026-08-19 | 2 | 15 | 7 | 4 | 8 | 351 |
+| last180d | 2026-05-21 | 2 | 26 | 7 | 5 | 9 | 416 |
+| 360d | 2025-11-22 | 2 | 27 | 7 | 8 | 14 | 418 |
+| last720d | 2024-11-27 | 2 | 31 | 7 | 12 | 17 | 426 |
 
 ## Distribution status
 
-Reported by **111** distros on [repology.org](https://repology.org/project/trash-cli). **16** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **18** are ✅ on the latest upstream release, **88** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -80,7 +80,7 @@ Reported by **111** distros on [repology.org](https://repology.org/project/trash
 | Nix unstable | `0.26.9.29` | ✅ latest |
 | Void | `0.26.9.29` | ✅ latest |
 | Alpine edge | `0.26.9.29` | ✅ latest |
-| openSUSE Tumbleweed | `0.24.5.26` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.26.9.29` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T04:37:10Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:23:29Z._

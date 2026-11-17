@@ -46,7 +46,7 @@ x install trash-cli
 
 ## 流行度
 
-- **Star**: 4,620 · **Fork**: 216 · **开放 issue**: 278 · **贡献者**: 57
+- **Star**: 4,621 · **Fork**: 216 · **开放 issue**: 278 · **贡献者**: 57
 
 ## 累计统计
 
@@ -56,16 +56,16 @@ x install trash-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 5 | 5 | 1 | 3 | 37 |
-| last60d | 2026-09-17 | 1 | 14 | 7 | 4 | 7 | 342 |
-| 90d | 2026-08-18 | 2 | 15 | 7 | 4 | 8 | 351 |
-| last180d | 2026-05-20 | 2 | 26 | 7 | 5 | 9 | 416 |
-| 360d | 2025-11-21 | 2 | 27 | 7 | 8 | 14 | 418 |
-| last720d | 2024-11-26 | 2 | 31 | 7 | 12 | 17 | 426 |
+| 30d | 2026-10-18 | 0 | 5 | 5 | 1 | 3 | 37 |
+| last60d | 2026-09-18 | 1 | 14 | 7 | 4 | 7 | 342 |
+| 90d | 2026-08-19 | 2 | 15 | 7 | 4 | 8 | 351 |
+| last180d | 2026-05-21 | 2 | 26 | 7 | 5 | 9 | 416 |
+| 360d | 2025-11-22 | 2 | 27 | 7 | 8 | 14 | 418 |
+| last720d | 2024-11-27 | 2 | 31 | 7 | 12 | 17 | 426 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/trash-cli) 上共有 **111** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**89** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/trash-cli) 上共有 **112** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**88** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -80,7 +80,7 @@ x install trash-cli
 | Nix unstable | `0.26.9.29` | ✅ latest |
 | Void | `0.26.9.29` | ✅ latest |
 | Alpine edge | `0.26.9.29` | ✅ latest |
-| openSUSE Tumbleweed | `0.24.5.26` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.26.9.29` | ✅ latest |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ trash-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T04:37:10Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T06:23:30Z._
