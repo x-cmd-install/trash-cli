@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.29` (2026-09-29)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 4,621 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
+- **Stars**: 4,623 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 89 · **Open PRs**: 7 · **Closed issues**: 200 · **Open issues**: 78 · **Commits**: 2406
+- **Releases**: 2 · **Merged PRs**: 89 · **Open PRs**: 8 · **Closed issues**: 200 · **Open issues**: 78 · **Commits**: 2408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 5 | 5 | 1 | 3 | 37 |
-| last60d | 2026-09-18 | 1 | 14 | 7 | 4 | 7 | 342 |
-| 90d | 2026-08-19 | 2 | 15 | 7 | 4 | 8 | 351 |
-| last180d | 2026-05-21 | 2 | 26 | 7 | 5 | 9 | 416 |
-| 360d | 2025-11-22 | 2 | 27 | 7 | 8 | 14 | 418 |
-| last720d | 2024-11-27 | 2 | 31 | 7 | 12 | 17 | 426 |
+| 30d | 2026-10-19 | 0 | 5 | 6 | 1 | 3 | 39 |
+| last60d | 2026-09-19 | 1 | 14 | 8 | 4 | 7 | 344 |
+| 90d | 2026-08-20 | 2 | 15 | 8 | 4 | 8 | 353 |
+| last180d | 2026-05-22 | 2 | 26 | 8 | 5 | 9 | 418 |
+| 360d | 2025-11-23 | 2 | 27 | 8 | 8 | 14 | 420 |
+| last720d | 2024-11-28 | 2 | 31 | 8 | 12 | 17 | 428 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T06:23:29Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:49:33Z._
