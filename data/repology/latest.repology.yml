@@ -40,19 +40,51 @@
     - jmtd@debian.org
   categories:
     - utils
-- repo: alpine_3_17
-  subrepo: community
+- repo: nix_stable_25_11
   srcname: trash-cli
-  binname: trash-cli-doc
-  visiblename: trash-cli-doc
-  version: 0.22.8.27
-  origversion: 0.22.8.27-r0
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: null
   status: outdated
-  summary: Command line interface to the freedesktop.org trashcan (documentation)
+  summary: Command line interface to the freedesktop.org trashcan
   maintainers:
-    - anjan@momi.ca
+    - robert@rycee.net
   licenses:
     - GPL-2.0-or-later
+- repo: aosc
+  srcname: app-utils/trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.26.9.29
+  origversion: null
+  status: newest
+  summary: Command line interface to the freedesktop.org trashcan
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: artix
+  subrepo: world
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-3
+  status: outdated
+  summary: Command line trashcan (recycle bin) interface
+  licenses:
+    - GPL-2.0-only
+- repo: arch
+  subrepo: extra
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-3
+  status: outdated
+  summary: Command line trashcan (recycle bin) interface
+  licenses:
+    - GPL-2.0-only
 - repo: pureos_landing
   subrepo: landing/main
   srcname: trash-cli
@@ -70,6 +102,19 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: trash-cli
+  binname: trash-cli-doc
+  visiblename: trash-cli-doc
+  version: 0.22.8.27
+  origversion: 0.22.8.27-r0
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan (documentation)
+  maintainers:
+    - anjan@momi.ca
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: trash-cli
   binname: trash-cli
   visiblename: trash-cli
   version: 0.22.8.27
@@ -301,6 +346,16 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
+- repo: pypi
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.26.9.29
+  origversion: null
+  status: newest
+  summary: Command line interface to FreeDesktop.org Trash.
+  maintainers:
+    - andrea@andreafrancia.it
 - repo: alpine_3_23
   subrepo: community
   srcname: trash-cli
@@ -314,16 +369,6 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
-- repo: pypi
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.26.9.29
-  origversion: null
-  status: newest
-  summary: Command line interface to FreeDesktop.org Trash.
-  maintainers:
-    - andrea@andreafrancia.it
 - repo: alpine_3_24
   subrepo: community
   srcname: trash-cli
@@ -402,26 +447,14 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
-- repo: aosc
-  srcname: app-utils/trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.26.9.29
-  origversion: null
-  status: newest
-  summary: Command line interface to the freedesktop.org trashcan
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: arch
-  subrepo: extra
+- repo: arch_testing
+  subrepo: extra-testing
   srcname: trash-cli
   binname: trash-cli
   visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-3
-  status: outdated
+  version: 0.26.9.29
+  origversion: 0.26.9.29-1
+  status: newest
   summary: Command line trashcan (recycle bin) interface
   licenses:
     - GPL-2.0-only
@@ -437,17 +470,6 @@
     - rhinoceros@aur
   licenses:
     - GPL-2.0-or-later
-- repo: artix
-  subrepo: world
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-3
-  status: outdated
-  summary: Command line trashcan (recycle bin) interface
-  licenses:
-    - GPL-2.0-only
 - repo: chimera
   subrepo: main
   srcname: trash-cli
@@ -710,6 +732,17 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: nix_stable_25_05
+  srcname: trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: null
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan
+  maintainers:
+    - robert@rycee.net
+  licenses:
+    - GPL-2.0-or-later
 - repo: fedora_44
   subrepo: release
   srcname: trash-cli
@@ -907,20 +940,6 @@
     - GPL-2
   categories:
     - app-misc
-- repo: mageia_9
-  subrepo: core/release
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.22.8.21
-  origversion: 0.22.8.21-1.mga9
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan
-  licenses:
-    - GPLv2+
-  categories:
-    - File tools
 - repo: mageia_10
   subrepo: core/release
   srcname: trash-cli
@@ -994,28 +1013,6 @@
   licenses:
     - GPL-2.0-or-later
 - repo: nix_stable_24_11
-  srcname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: null
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan
-  maintainers:
-    - robert@rycee.net
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_25_05
-  srcname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: null
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan
-  maintainers:
-    - robert@rycee.net
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_25_11
   srcname: trash-cli
   visiblename: trash-cli
   version: 0.24.5.26
