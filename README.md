@@ -14,11 +14,11 @@ x install trash-cli
 
 ## Code insight
 
-Total: **14,895** lines of code across **576** files in the top 5 languages.
+Total: **14,918** lines of code across **576** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,576 | 288 | 4,039 | 555 |
+| Python | 13,599 | 294 | 4,043 | 555 |
 | Html | 509 | 4 | 1 | 1 |
 | ReStructuredText | 399 | 0 | 211 | 2 |
 | Bash | 199 | 89 | 49 | 16 |
@@ -42,30 +42,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.26.9.29` (2026-09-29)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 4,627 · **Forks**: 216 · **Open issues**: 278 · **Contributors**: 57
+- **Stars**: 4,628 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 89 · **Open PRs**: 7 · **Closed issues**: 200 · **Open issues**: 78 · **Commits**: 2408
+- **Releases**: 2 · **Merged PRs**: 90 · **Open PRs**: 8 · **Closed issues**: 200 · **Open issues**: 79 · **Commits**: 2415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 5 | 6 | 1 | 3 | 39 |
-| last60d | 2026-09-21 | 1 | 14 | 7 | 3 | 7 | 344 |
-| 90d | 2026-08-22 | 2 | 15 | 7 | 4 | 8 | 353 |
-| last180d | 2026-05-24 | 2 | 26 | 7 | 5 | 9 | 418 |
-| 360d | 2025-11-25 | 2 | 27 | 7 | 8 | 14 | 420 |
-| last720d | 2024-11-30 | 2 | 31 | 7 | 12 | 17 | 428 |
+| 30d | 2026-10-22 | 0 | 6 | 7 | 1 | 4 | 46 |
+| last60d | 2026-09-22 | 1 | 15 | 8 | 2 | 8 | 351 |
+| 90d | 2026-08-23 | 2 | 16 | 8 | 4 | 9 | 360 |
+| last180d | 2026-05-25 | 2 | 27 | 8 | 5 | 10 | 425 |
+| 360d | 2025-11-26 | 2 | 28 | 8 | 8 | 15 | 427 |
+| last720d | 2024-12-01 | 2 | 32 | 8 | 12 | 18 | 435 |
 
 ## Distribution status
 
-Reported by **113** distros on [repology.org](https://repology.org/project/trash-cli). **20** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **20** are ✅ on the latest upstream release, **86** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:36:54Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:30:06Z._
