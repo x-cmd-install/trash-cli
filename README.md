@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,628 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
+- **Stars**: 4,629 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -56,16 +56,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 6 | 7 | 1 | 4 | 20 |
-| last60d | 2026-09-23 | 1 | 15 | 8 | 1 | 8 | 312 |
-| 90d | 2026-08-24 | 2 | 16 | 8 | 4 | 9 | 359 |
-| last180d | 2026-05-26 | 2 | 27 | 8 | 5 | 10 | 424 |
-| 360d | 2025-11-27 | 2 | 28 | 8 | 8 | 15 | 427 |
-| last720d | 2024-12-02 | 2 | 32 | 8 | 12 | 18 | 435 |
+| 30d | 2026-10-24 | 0 | 6 | 6 | 1 | 4 | 20 |
+| last60d | 2026-09-24 | 1 | 15 | 8 | 1 | 8 | 312 |
+| 90d | 2026-08-25 | 2 | 16 | 8 | 4 | 9 | 359 |
+| last180d | 2026-05-27 | 2 | 27 | 8 | 5 | 10 | 424 |
+| 360d | 2025-11-28 | 2 | 28 | 8 | 8 | 15 | 427 |
+| last720d | 2024-12-03 | 2 | 32 | 8 | 12 | 18 | 435 |
 
 ## Distribution status
 
-Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **20** are ✅ on the latest upstream release, **86** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/trash-cli). **21** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T04:55:36Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T05:36:43Z._
