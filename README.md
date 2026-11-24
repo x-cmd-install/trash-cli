@@ -30,8 +30,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,629 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
+- **Stars**: 4,628 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 6 | 6 | 1 | 4 | 20 |
-| last60d | 2026-09-24 | 1 | 15 | 8 | 1 | 8 | 312 |
-| 90d | 2026-08-25 | 2 | 16 | 8 | 4 | 9 | 359 |
-| last180d | 2026-05-27 | 2 | 27 | 8 | 5 | 10 | 424 |
-| 360d | 2025-11-28 | 2 | 28 | 8 | 8 | 15 | 427 |
-| last720d | 2024-12-03 | 2 | 32 | 8 | 12 | 18 | 435 |
+| 30d | 2026-10-25 | 0 | 6 | 7 | 1 | 4 | 20 |
+| last60d | 2026-09-25 | 1 | 15 | 8 | 1 | 8 | 312 |
+| 90d | 2026-08-26 | 2 | 16 | 8 | 4 | 9 | 359 |
+| last180d | 2026-05-28 | 2 | 27 | 8 | 5 | 10 | 424 |
+| 360d | 2025-11-29 | 2 | 28 | 8 | 8 | 15 | 427 |
+| last720d | 2024-12-04 | 2 | 32 | 8 | 12 | 18 | 435 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T05:36:43Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T08:15:04Z._
