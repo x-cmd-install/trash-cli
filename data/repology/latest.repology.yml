@@ -1,59 +1,3 @@
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.17.1.14
-  origversion: 0.17.1.14-5
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.3
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.4
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.17.1.14
-  origversion: 0.17.1.14-5
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
 - repo: pureos_landing
   subrepo: landing/main
   srcname: trash-cli
@@ -68,16 +12,63 @@
     - jmtd@debian.org
   categories:
     - utils
-- repo: pypi
+- repo: chimera
+  subrepo: main
   srcname: trash-cli
   binname: trash-cli
   visiblename: trash-cli
-  version: 0.26.9.29
-  origversion: null
-  status: newest
+  version: 0.24.5.26
+  origversion: 0.24.5.26-r2
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan
+  licenses:
+    - GPL-2.0-or-later
+- repo: chimera
+  subrepo: main
+  srcname: trash-cli
+  binname: trash-cli-doc
+  visiblename: trash-cli-doc
+  version: 0.24.5.26
+  origversion: 0.24.5.26-r2
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan (documentation)
+  licenses:
+    - GPL-2.0-or-later
+- repo: pclinuxos
+  srcname: python-trash-cli
+  visiblename: python-trash-cli
+  version: 0.11.2
+  origversion: 0.11.2-4pclos2013
+  status: outdated
   summary: Command line interface to FreeDesktop.org Trash.
+  categories:
+    - Development/Libraries
+- repo: alpine_3_21
+  subrepo: community
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.23.11.10
+  origversion: 0.23.11.10-r1
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan
   maintainers:
-    - andrea@andreafrancia.it
+    - anjan@momi.ca
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: trash-cli
+  binname: trash-cli-doc
+  visiblename: trash-cli-doc
+  version: 0.23.11.10
+  origversion: 0.23.11.10-r1
+  status: outdated
+  summary: Command line interface to the freedesktop.org trashcan (documentation)
+  maintainers:
+    - anjan@momi.ca
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_3_17
   subrepo: community
   srcname: trash-cli
@@ -195,33 +186,6 @@
     - anjan@momi.ca
   licenses:
     - GPL-2.0-or-later
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.4
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
-- repo: alpine_3_20
-  subrepo: community
-  srcname: trash-cli
-  binname: trash-cli-doc
-  visiblename: trash-cli-doc
-  version: 0.23.11.10
-  origversion: 0.23.11.10-r1
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan (documentation)
-  maintainers:
-    - anjan@momi.ca
-  licenses:
-    - GPL-2.0-or-later
 - repo: alpine_3_20
   subrepo: community
   srcname: trash-cli
@@ -231,19 +195,6 @@
   origversion: 0.23.11.10-r1
   status: outdated
   summary: Precompiled Python bytecode for trash-cli
-  maintainers:
-    - anjan@momi.ca
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.23.11.10
-  origversion: 0.23.11.10-r1
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan
   maintainers:
     - anjan@momi.ca
   licenses:
@@ -326,20 +277,6 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
-- repo: deepin_25
-  subrepo: community
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.3
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: trash-cli
@@ -353,6 +290,17 @@
     - hugo@whynothugo.nl
   licenses:
     - GPL-2.0-or-later
+- repo: artix
+  subrepo: world
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-3
+  status: outdated
+  summary: Command line trashcan (recycle bin) interface
+  licenses:
+    - GPL-2.0-only
 - repo: alpine_3_23
   subrepo: community
   srcname: trash-cli
@@ -467,20 +415,6 @@
   summary: Command line trashcan (recycle bin) interface
   licenses:
     - GPL-2.0-only
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.17.1.14
-  origversion: 0.17.1.14-5
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
 - repo: arch_testing
   subrepo: extra-testing
   srcname: trash-cli
@@ -504,17 +438,6 @@
     - rhinoceros@aur
   licenses:
     - GPL-2.0-or-later
-- repo: artix
-  subrepo: world
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-3
-  status: outdated
-  summary: Command line trashcan (recycle bin) interface
-  licenses:
-    - GPL-2.0-only
 - repo: artix_testing
   subrepo: world-gremlins
   srcname: trash-cli
@@ -526,28 +449,6 @@
   summary: Command line trashcan (recycle bin) interface
   licenses:
     - GPL-2.0-only
-- repo: chimera
-  subrepo: main
-  srcname: trash-cli
-  binname: trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-r2
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan
-  licenses:
-    - GPL-2.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: trash-cli
-  binname: trash-cli-doc
-  visiblename: trash-cli-doc
-  version: 0.24.5.26
-  origversion: 0.24.5.26-r2
-  status: outdated
-  summary: Command line interface to the freedesktop.org trashcan (documentation)
-  licenses:
-    - GPL-2.0-or-later
 - repo: chimera
   subrepo: main
   srcname: trash-cli
@@ -626,6 +527,48 @@
     - jmtd@debian.org
   categories:
     - utils
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.4
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: deepin_25
+  subrepo: community
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.3
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.17.1.14
+  origversion: 0.17.1.14-5
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: trash-cli
@@ -634,6 +577,20 @@
   visiblename: trash-cli
   version: 0.24.5.26
   origversion: 0.24.5.26-0.4
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot/main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.3
   status: outdated
   maintainers:
     - stefano@karapetsas.com
@@ -790,20 +747,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: parrot
-  subrepo: parrot/main
-  srcname: trash-cli
-  binnames:
-    - trash-cli
-  visiblename: trash-cli
-  version: 0.24.5.26
-  origversion: 0.24.5.26-0.3
-  status: outdated
-  maintainers:
-    - stefano@karapetsas.com
-    - jmtd@debian.org
-  categories:
-    - utils
 - repo: freebsd
   srcname: deskutils/py-trash-cli
   binname: py312-trash-cli
@@ -931,23 +874,14 @@
     - GPL-2
   categories:
     - app-misc
-- repo: pclinuxos
-  srcname: python-trash-cli
-  visiblename: python-trash-cli
-  version: 0.11.2
-  origversion: 0.11.2-4pclos2013
-  status: outdated
-  summary: Command line interface to FreeDesktop.org Trash.
-  categories:
-    - Development/Libraries
-- repo: pureos_amber
-  subrepo: amber/main
+- repo: pureos_byzantium
+  subrepo: byzantium/main
   srcname: trash-cli
   binnames:
     - trash-cli
   visiblename: trash-cli
   version: 0.17.1.14
-  origversion: 0.17.1.14-2
+  origversion: 0.17.1.14-5
   status: outdated
   maintainers:
     - stefano@karapetsas.com
@@ -1142,6 +1076,58 @@
   visiblename: trash-cli
   version: 0.24.5.26
   origversion: 0.24.5.26-0.3
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: pypi
+  srcname: trash-cli
+  binname: trash-cli
+  visiblename: trash-cli
+  version: 0.26.9.29
+  origversion: null
+  status: newest
+  summary: Command line interface to FreeDesktop.org Trash.
+  maintainers:
+    - andrea@andreafrancia.it
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.17.1.14
+  origversion: 0.17.1.14-5
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.3
+  status: outdated
+  maintainers:
+    - stefano@karapetsas.com
+    - jmtd@debian.org
+  categories:
+    - utils
+- repo: raspbian_testing
+  subrepo: main
+  srcname: trash-cli
+  binnames:
+    - trash-cli
+  visiblename: trash-cli
+  version: 0.24.5.26
+  origversion: 0.24.5.26-0.4
   status: outdated
   maintainers:
     - stefano@karapetsas.com
