@@ -46,41 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,628 · **Forks**: 217 · **Open issues**: 279 · **Contributors**: 57
+- **Stars**: 4,630 · **Forks**: 216 · **Open issues**: 279 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 90 · **Open PRs**: 8 · **Closed issues**: 200 · **Open issues**: 79 · **Commits**: 2415
+- **Releases**: 2 · **Merged PRs**: 90 · **Open PRs**: 7 · **Closed issues**: 200 · **Open issues**: 79 · **Commits**: 2415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 6 | 6 | 1 | 4 | 20 |
-| last60d | 2026-09-26 | 1 | 15 | 8 | 1 | 8 | 312 |
-| 90d | 2026-08-27 | 2 | 16 | 8 | 4 | 9 | 359 |
-| last180d | 2026-05-29 | 2 | 27 | 8 | 5 | 10 | 424 |
-| 360d | 2025-11-30 | 2 | 28 | 8 | 7 | 15 | 427 |
-| last720d | 2024-12-05 | 2 | 32 | 8 | 12 | 18 | 435 |
-
-## Distribution status
-
-Reported by **111** distros on [repology.org](https://repology.org/project/trash-cli). **21** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.24.5.26` | ⚠️ outdated |
-| Debian 14 | `0.24.5.26` | ⚠️ outdated |
-| Debian 13 | `0.24.5.26` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.24.5.26` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.23.11.10` | ⚠️ outdated |
-| Arch | `0.24.5.26` | ⚠️ outdated |
-| Homebrew | `0.26.9.29` | ✅ latest |
-| Fedora rawhide | `0.26.9.29` | ✅ latest |
-| Nix unstable | `0.26.9.29` | ✅ latest |
-| Void | `0.26.9.29` | ✅ latest |
-| Alpine edge | `0.26.9.29` | ✅ latest |
-| openSUSE Tumbleweed | `0.26.9.29` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 6 | 6 | 1 | 4 | 20 |
+| last60d | 2026-09-27 | 1 | 15 | 7 | 1 | 8 | 312 |
+| 90d | 2026-08-28 | 2 | 16 | 7 | 4 | 9 | 359 |
+| last180d | 2026-05-30 | 2 | 26 | 7 | 5 | 10 | 424 |
+| 360d | 2025-12-01 | 2 | 28 | 7 | 6 | 15 | 427 |
+| last720d | 2024-12-06 | 2 | 32 | 7 | 12 | 18 | 435 |
 
 ## Improve this data
 
@@ -91,4 +72,4 @@ Install metadata for trash-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:52:15Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:43:22Z._
